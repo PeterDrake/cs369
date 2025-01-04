@@ -26,7 +26,7 @@
 26. Autoencoders
 27. Generative Adversarial Networks
 28. Transformers
-29. Large Language Models
+29. Large Language Models and Retrieval Augmented Generation
 30. Reinforcement Learning
 31. Genetic Algorithms
 32. Review
