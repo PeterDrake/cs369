@@ -19,7 +19,6 @@ There are [associated Jupyter notebooks](https://github.com/ageron/handson-ml3)
 [Course Policies](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md)  
 [Class Notes](https://github.com/PeterDrake/cs488/tree/main/lessons)  
 [Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)  
-[Pairs](TODO)
 
 ## Collaborative Documents
 [Glossary](TODO)  
@@ -44,9 +43,9 @@ Upon completing this course, you should be able to:
 * explain and address practical problems surrounding machine learning, such as data cleaning and overfitting.
 
 ## Course Structure
-The major components of the course will be:
+The major components of the course are:
 * Individual assignments that you are meant to complete on your own. You are welcome to help each other with *concepts*, but any code, writing, math, etc. should be your own.
 * Pair programming projects that you complete with another student. I will assign you a different partner for each such project.
-* Reading and reporting on a book about the social context of AI and machine learning. To keep discussions interesting, and to spare me the tedium of reading dozens of essays on the same book, each person will read a different book.
+* Reading and reporting on a book about the social context of AI and machine learning. To keep discussions interesting, and to spare me the tedium of reading dozens of essays on the same book, each student will read a different book.
 
 There are no exams. In place of a final exam, each student will give a very short (5 minute) presentation on the book they read. This will be accompanied by a class discussion.
