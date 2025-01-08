@@ -23,7 +23,8 @@ There are [associated Jupyter notebooks](https://github.com/ageron/handson-ml3).
 ## Collaborative Documents
 [Glossary](https://docs.google.com/document/d/1_yoVjrNlc-iZGAU2MAyLnwFjJ8owK9oDaX6iDiwrOlA/edit?usp=sharing)  
 [Dank Meme Stash](https://docs.google.com/document/d/1CbPZrWiyDVGtKfFFkldcgau_IJUd-OSWiIFsNM0GrQA/edit?usp=sharing)  
-[AI Did Me Dirty](https://docs.google.com/document/d/1XL65wWGd1h24sOlXcnm6QfR3GhmxIljiUFFUIWV5GZU/edit?usp=sharing)
+[AI Did Me Dirty](https://docs.google.com/document/d/1XL65wWGd1h24sOlXcnm6QfR3GhmxIljiUFFUIWV5GZU/edit?usp=sharing)  
+[Ripped From Today's Headlines](https://docs.google.com/spreadsheets/d/1k9USK0J5Kcz1fqRcW5kFZiv7lE7XTp8P-JcOX_OpZfc/edit?usp=sharing)
 
 ## Overview
 This course examines the philosophical, theoretical, and practical issues involved in the design of thinking machines. We will explore techniques used to get computers to solve problems that once were (and in some cases still are) thought to be strictly in the domain of human intelligence. The bulk of the course will focus on machine learning: building systems that can be trained from data rather than explicitly programmed.
