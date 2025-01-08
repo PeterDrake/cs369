@@ -2,7 +2,7 @@
 Spring 2025
 
 **Instructor**: [Peter Drake](https://sites.google.com/a/lclark.edu/drake/home)  
-**Teaching Assistant**: [Katie Caudill](TODO)  
+**Teaching assistant**: [Katie Caudill](kcaudill@lclark.edu)  
 **Meetings**: 1:50-2:50 PM MWF, Olin 305  
 **Final presentations**: 1-4 PM, Monday, May 5
 
@@ -13,24 +13,24 @@ Spring 2025
 
 ## Course Text
 Géron, [*Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, 3rd Edition*](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)  
-There are [associated Jupyter notebooks](https://github.com/ageron/handson-ml3)
+There are [associated Jupyter notebooks](https://github.com/ageron/handson-ml3).
 
 ## Links
 [Course Policies](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md)  
-[Class Notes](https://github.com/PeterDrake/cs488/tree/main/lessons)  
+[Class Notes](https://github.com/PeterDrake/cs369/tree/main/lessons)  
 [Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)  
 
 ## Collaborative Documents
-[Glossary](TODO)  
-[Dank Meme Stash](TODO)  
-[AI Did Me Dirty](TODO)
+[Glossary](https://docs.google.com/document/d/1_yoVjrNlc-iZGAU2MAyLnwFjJ8owK9oDaX6iDiwrOlA/edit?usp=sharing)  
+[Dank Meme Stash](https://docs.google.com/document/d/1CbPZrWiyDVGtKfFFkldcgau_IJUd-OSWiIFsNM0GrQA/edit?usp=sharing)  
+[AI Did Me Dirty](https://docs.google.com/document/d/1XL65wWGd1h24sOlXcnm6QfR3GhmxIljiUFFUIWV5GZU/edit?usp=sharing)
 
 ## Overview
 This course examines the philosophical, theoretical, and practical issues involved in the design of thinking machines. We will explore techniques used to get computers to solve problems that once were (and in some cases still are) thought to be strictly in the domain of human intelligence. The bulk of the course will focus on machine learning: building systems that can be trained from data rather than explicitly programmed.
 
 The prerequisite for this course is CS 171 (Computer Science I) and either CS 172 (Computer Science II) or DSCI 140 (Introduction to Data Science). You are expected to be proficient with general programming concepts such as variables, if/else statements, loops, and functions.
 
-We will use the Python programming language. If you haven't used it before, you *have* learned a couple of other languages (probably C and R), so you should be able to pick it up quickly. Take advantage of Pythonorama and the "Getting Help" options above to get up to speed. (If you want a textbook on Python, a good choice is Lubanovic, [*Introducing Python: Modern Computing in Simple Packages, 2nd Edition*](http://shop.oreilly.com/product/0636920252528.do).)
+We will use the Python programming language. If you haven't used it before, you *have* learned a couple of other languages (probably C and R), so you should be able to pick it up quickly. Take advantage of Pythonorama and the "Getting Help" options above to get up to speed. If you want a textbook on Python, a good choices are Downey, [*Think Python: How To Think Like a Computer Scientist*](https://allendowney.github.io/ThinkPython/index.html) (free online) or Lubanovic, [*Introducing Python: Modern Computing in Simple Packages, 2nd Edition*](http://shop.oreilly.com/product/0636920252528.do).
 
 ## Learning Objectives
 Upon completing this course, you should be able to:
