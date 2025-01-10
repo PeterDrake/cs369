@@ -1,28 +1,28 @@
 1. AI: Should We Be Doing This?
 2. Syllabus and Setup
 3. Python Review
-4. Agents -> Vacuum World
-5. Uninformed Search -> N Queens
+4. Agents
+5. Uninformed Search
 6. Heuristic Search
-7. Adversarial Search -> Othello
+7. Adversarial Search
 8. Monte Carlo Tree Search
 9. The Turing Test
 10. Machine Learning
 11. Linear Regression
-12. Gradient Descent -> Gradient Descent
-13. Logistic Regression -> Polynomial Regression
+12. Gradient Descent
+13. Logistic Regression
 14. Measuring Learning
-15. Decision Trees -> Decision Tree
-16. Ensemble Learning -> Random Forest
-17. Unsupervised Learning -> k-Nearest Neighbors
-18. Neural Networks -> Neural Network
+15. Decision Trees
+16. Ensemble Learning
+17. Unsupervised Learning
+18. Neural Networks
 19. Backpropagation
 20. Bias and Privacy
 21. Using BLT
 22. NumPy
-23. TensorFlow -> TensorFlow
+23. TensorFlow 
 24. Deep Learning
-25. Convolution -> Handwriting Recognition
+25. Convolution
 26. Autoencoders
 27. Generative Adversarial Networks
 28. Transformers
