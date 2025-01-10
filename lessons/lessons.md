@@ -1,4 +1,4 @@
-1. AI: Factotum or Nemesis?
+1. AI: Should We Be Doing This?
 2. Syllabus and Setup
 3. Python Review
 4. Agents -> Vacuum World
