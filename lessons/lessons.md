@@ -32,5 +32,7 @@
 32. Review
 
 Other assignments:
+First day survey
 Social context book (multiple parts)
+The Thinking Game (movie)
 FOSA
