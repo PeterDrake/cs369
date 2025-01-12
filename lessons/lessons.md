@@ -38,3 +38,4 @@ Turing article (reading)
 The Thinking Game (movie)
 Midterm eval
 FOSA
+Final conference and evaluation
