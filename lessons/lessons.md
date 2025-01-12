@@ -34,5 +34,7 @@
 Other assignments:
 First day survey
 Social context book (multiple parts)
+Turing article (reading)
 The Thinking Game (movie)
+Midterm eval
 FOSA
