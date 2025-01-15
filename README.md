@@ -8,8 +8,8 @@ Spring 2025
 
 ## Getting Help
 * Write to the [course email list](25sp-cs-369-01@lclark.edu) 24/7
+* Come to the TA's lab hours, 11 AM - 1 PM, Tuesdays, Olin 309
 * [Make an appointment to see me](https://calendar.app.google/XiynwHJNprXgGxWd8) or drop by my office
-* Come to the TA's lab hours, TBA
 
 ## Course Text
 Géron, [*Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, 3rd Edition*](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)  
