@@ -39,5 +39,3 @@ The Thinking Game (movie)
 Midterm eval
 FOSA
 Final conference and evaluation
-
-testing
