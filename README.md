@@ -50,3 +50,52 @@ The major components of the course are:
 * Reading and reporting on a book about the social context of AI and machine learning. To keep discussions interesting, and to spare me the tedium of reading dozens of essays on the same book, each student will read a different book.
 
 There are no exams. In place of a final exam, each student will give a very short (5 minute) presentation on the book they read. This will be accompanied by a class discussion.
+
+## Schedule
+Flex days are days for you to work on assignments in class. They also serve as a reserve in case of getting behind,
+instructor illness, inclement weather, etc. Note the links to class notes above.
+
+Day | Date   | Lesson
+--|--------|--
+Wed| Jan 22 |AI: Should We Be Doing This?
+Fri| Jan 24 |Syllabus and Setup
+Mon| Jan 27 |Python Review
+Wed| Jan 29 |Agents
+Fri| Jan 31 |Flex
+Mon| Feb 3  |Uninformed Search
+Wed| Feb 5  |Heuristic Search
+Fri| Feb 7  |Adversarial Search
+Mon| Feb 10 |Monte Carlo Tree Search
+Wed| Feb 12 |The Turing Test
+Fri| Feb 14 |Machine Learning
+Mon| Feb 17 |Linear Regression
+Wed| Feb 19 |Gradient Descent
+Fri| Feb 21 |Logistic Regression
+Mon| Feb 24 |Measuring Learning
+Wed| Feb 26 |Flex
+Fri| Feb 28 |Decision Trees
+Mon| Mar 3  |Ensemble Learning
+Wed| Mar 5  |Unsupervised Learning
+Fri| Mar 7  |Neural Networks
+Mon| Mar 10 |Backpropagation
+Wed| Mar 12 |Flex
+Fri| Mar 14 |Bias and Privacy
+Mon| Mar 17 |Using BLT
+Wed| Mar 19 |NumPy
+Fri| Mar 21 |Flex
+Mon| Mar 31 |TensorFlow
+Wed| Apr 2  |Flex
+Fri| Apr 4  |Deep Learning
+Mon| Apr 7  |Convolution
+Wed| Apr 9  |Flex
+Fri| Apr 11 |Festival of Scholars and Artists
+Mon| Apr 14 |Autoencoders
+Wed| Apr 16 |Flex
+Fri| Apr 18 |Generative Adversarial Networks
+Mon| Apr 21 |Transformers
+Wed| Apr 23 |Large Language Models and Retrieval Augmented Generation
+Fri| Apr 25 |Reinforcement Learning
+Mon| Apr 28 |Genetic Algorithms
+Wed| Apr 30 |Review
+Mon| May 5  | Final presentations, 1-4 PM
+
