@@ -67,7 +67,7 @@ and:
 
 `print(many_runs(20, 50000, 10, state_agent, state_agent_reset))`
 
-My solution got average losses of around 19 000 000 for the reflex agent, 630 000 for the random agent, and 380 000 for the state agent. Maybe your team can do even better!
+My solution got average losses of around 19 000 000 for the reflex agent, 630 000 for the random agent, and 380 000 for the state agent. Maybe you can do even better!
 
 # What to Hand in
 Hand in your file `vacuum_agents.py` that contains your function definitions and any global variable definitions.
