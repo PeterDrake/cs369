@@ -18,5 +18,6 @@ If excess time, dig into [Rosalind problems](https://rosalind.info/) (Python Vil
 
 # For Next Time
 
+* Do that first day survey, including appointment, headline, social context book
 * Who is doing headline?
 * Get your Python in shape!
