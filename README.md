@@ -24,7 +24,7 @@ There are [associated Jupyter notebooks](https://github.com/ageron/handson-ml3).
 [Glossary](https://docs.google.com/document/d/1_yoVjrNlc-iZGAU2MAyLnwFjJ8owK9oDaX6iDiwrOlA/edit?usp=sharing)  
 [Dank Meme Stash](https://docs.google.com/document/d/1CbPZrWiyDVGtKfFFkldcgau_IJUd-OSWiIFsNM0GrQA/edit?usp=sharing)  
 [AI Did Me Dirty](https://docs.google.com/document/d/1XL65wWGd1h24sOlXcnm6QfR3GhmxIljiUFFUIWV5GZU/edit?usp=sharing)  
-[Ripped From Today's Headlines](https://docs.google.com/spreadsheets/d/1k9USK0J5Kcz1fqRcW5kFZiv7lE7XTp8P-JcOX_OpZfc/edit?usp=sharing)
+[Ripped From Today's Headlines](https://docs.google.com/spreadsheets/d/1k9USK0J5Kcz1fqRcW5kFZiv7lE7XTp8P-JcOX_OpZfc/edit?usp=sharing)  
 [Social Context Books](https://docs.google.com/spreadsheets/d/1iMZoGUTiqXl6eZQgCfdbSgisPi7yglwEa_SGP3H9e9Q/edit?usp=sharing)
 
 ## Overview
