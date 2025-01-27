@@ -1,6 +1,8 @@
 Bring: **Python Cheat Sheets, Lubanovic**
 
-Ripped From Today's Headlines
+Attendance  
+Ripped From Today's Headlines  
+Who's next?
 
 [Ten Eternal Truths About Python](https://docs.google.com/presentation/d/1OQ7YHJqNgGblz9GVC6l80wyomk1NoFTfGqOBAzr-Mpc/edit?usp=sharing)
 
@@ -24,5 +26,6 @@ Ripped From Today's Headlines
     * Allow `overlaps` to work between `Sphere`s and `Box`es.
 
 # For Next Time
-
-Put The Thinking Game on your calendar
+* Put The Thinking Game on your calendar
+* Have you signed up for Ripped From Today's Headlines?
+* Have you chosen your social context book?
