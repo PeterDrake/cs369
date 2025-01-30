@@ -1,7 +1,7 @@
 # Overview
 This assignment asks you to experiment with programming a simulated robot vacuum cleaner. It is not meant to exercise any particular AI technique, but rather to give you a chance to come up with your own techniques, confront a challenging environment, and practice your Python.
 
-**This is an individual assignment. You are meant to write the code on your own. You are welcome to discuss ideas with other students (including on the class email list), but don't look at their code or show them yours.**
+**This is an individual assignment. You are meant to write the code on your own. You are welcome to discuss *ideas* with other students (including on the class email list), but don't look at their code or show them yours.**
 
 # Files
 * [vacuum.py](../src/vacuum.py)
