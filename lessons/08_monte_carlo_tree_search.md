@@ -1,10 +1,10 @@
 Attendance  
 Ripped From Today's Headlines
-Post-its
 
 [Slides](https://docs.google.com/presentation/d/1D5d09oUy4-cP9Qyoak8b55rbIazO__nTdq2nNavx_vY/edit?usp=sharing)
 
+If time, start on Othello assignment
+
 # For Next Time
-Post-its
-N Queens is due Monday  
-Read the Turing paper soon
+N Queens is due tonight
+Read the Turing paper
