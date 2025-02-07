@@ -6,5 +6,5 @@ Ripped From Today's Headlines
 If time, start on Othello assignment
 
 # For Next Time
-N Queens is due tonight
-Read the Turing paper
+N Queens is due tonight  
+Read the Turing paper  
