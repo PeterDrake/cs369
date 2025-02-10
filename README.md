@@ -8,7 +8,7 @@ Spring 2025
 
 ## Getting Help
 * Write to the [course email list](25sp-cs-369-01@lclark.edu) 24/7
-* Come to the TA's lab hours, 11 AM - 1 PM, Tuesdays, Olin 309
+* Come to the TA's lab hours, 11 AM - 1 PM, Tuesdays, SQRC (JRHH 134)
 * [Make an appointment to see me](https://calendar.app.google/XiynwHJNprXgGxWd8) or drop by my office
 
 ## Course Text
@@ -66,14 +66,14 @@ instructor illness, inclement weather, etc. Note the links to class notes above.
 | Mon | Feb 3  | Uninformed Search                                        |
 | Wed | Feb 5  | Heuristic Search                                         |
 | Fri | Feb 7  | Adversarial Search                                       |
-| Mon | Feb 10 | Monte Carlo Tree Search                                  |
-| Wed | Feb 12 | The Turing Test                                          |
-| Fri | Feb 14 | Machine Learning                                         |
-| Mon | Feb 17 | Linear Regression                                        |
-| Wed | Feb 19 | Gradient Descent                                         |
-| Fri | Feb 21 | Logistic Regression                                      |
-| Mon | Feb 24 | Measuring Learning                                       |
-| Wed | Feb 26 | Flex                                                     |
+| Mon | Feb 10 | Adversarial Search Continued                             |
+| Wed | Feb 12 | Monte Carlo Tree Search                                  |
+| Fri | Feb 14 | The Turing Test                                          |
+| Mon | Feb 17 | Machine Learning                                         |
+| Wed | Feb 19 | Linear Regression                                        |
+| Fri | Feb 21 | Gradient Descent                                         |
+| Mon | Feb 24 | Logistic Regression                                      |
+| Wed | Feb 26 | Measuring Learning                                       |
 | Fri | Feb 28 | Decision Trees                                           |
 | Mon | Mar 3  | Ensemble Learning                                        |
 | Wed | Mar 5  | Unsupervised Learning                                    |
