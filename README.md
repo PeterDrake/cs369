@@ -18,7 +18,8 @@ There are [associated Jupyter notebooks](https://github.com/ageron/handson-ml3).
 ## Links
 [Course Policies](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md)  
 [Class Notes](https://github.com/PeterDrake/cs369/tree/main/lessons)  
-[Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)  
+[In-Class Code](https://github.com/PeterDrake/cs369_c25_in_class)
+[Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)
 
 ## Collaborative Documents
 [Glossary](https://docs.google.com/document/d/1_yoVjrNlc-iZGAU2MAyLnwFjJ8owK9oDaX6iDiwrOlA/edit?usp=sharing)  
