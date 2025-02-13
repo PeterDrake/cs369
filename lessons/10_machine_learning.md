@@ -52,4 +52,5 @@ a good model
   * Ensemble
 
 # For Next Time
+Othello is due tonight
 Read pp. 131-138
