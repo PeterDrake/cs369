@@ -69,18 +69,18 @@ instructor illness, inclement weather, etc. Note the links to class notes above.
 | Fri | Feb 7  | Adversarial Search                                       |
 | Mon | Feb 10 | Adversarial Search Continued                             |
 | Wed | Feb 12 | Monte Carlo Tree Search                                  |
-| Fri | Feb 14 | The Turing Test                                          |
-| Mon | Feb 17 | Machine Learning                                         |
-| Wed | Feb 19 | Linear Regression                                        |
-| Fri | Feb 21 | Gradient Descent                                         |
-| Mon | Feb 24 | Logistic Regression                                      |
-| Wed | Feb 26 | Measuring Learning                                       |
-| Fri | Feb 28 | Decision Trees                                           |
-| Mon | Mar 3  | Ensemble Learning                                        |
-| Wed | Mar 5  | Unsupervised Learning                                    |
-| Fri | Mar 7  | Neural Networks                                          |
-| Mon | Mar 10 | Backpropagation                                          |
-| Wed | Mar 12 | Flex                                                     |
+| Fri | Feb 14 | Snow Day                                                 |
+| Mon | Feb 17 | The Turing Test                                          |
+| Wed | Feb 19 | Machine Learning                                         |
+| Fri | Feb 21 | Linear Regression                                        |
+| Mon | Feb 24 | Gradient Descent                                         |
+| Wed | Feb 26 | Logistic Regression                                      |
+| Fri | Feb 28 | Classification                                           |
+| Mon | Mar 3  | Decision Trees                                           |
+| Wed | Mar 5  | Ensemble Learning                                        |
+| Fri | Mar 7  | Unsupervised Learning                                    |
+| Mon | Mar 10 | Neural Networks                                          |
+| Wed | Mar 12 | Backpropagation                                          |
 | Fri | Mar 14 | Bias and Privacy                                         |
 | Mon | Mar 17 | Using BLT                                                |
 | Wed | Mar 19 | NumPy                                                    |

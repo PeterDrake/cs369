@@ -51,6 +51,7 @@ plt.plot(x_model, y_model, 'r')
   * Plan A: trial and error
   * Plan B: a closed form solution exists
     * How is it derived? Ask Yung-Pin
+    * It's much simpler when there's only one input
     * There is not such a solution for some more complicated models
   * Plan C: gradient descent
 
@@ -59,5 +60,5 @@ plt.plot(x_model, y_model, 'r')
 * If extra time, work on assignments
 
 # For Next Time
-You can now start work on linear regression assignment  
-Read Chapter 3
+You can now do the Linear Regression assignment  
+Read Géron, pp. 138-149
