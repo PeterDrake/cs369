@@ -1,4 +1,4 @@
-Attendance
+Attendance  
 Ripped From Today's Headlines
 
 # Linear Regression
@@ -62,3 +62,4 @@ plt.plot(x_model, y_model, 'r')
 # For Next Time
 You can now do the Linear Regression assignment  
 Read Géron, pp. 138-149
+The first third of your social context book is due next week
