@@ -33,4 +33,4 @@ Ripped From Today's Headlines
 
 # For Next Time
 Linear Regression is due tonight
-Read Géron, pp. 149-170
+Read Géron, pp. 149-173

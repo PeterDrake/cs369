@@ -9,9 +9,9 @@
 9. The Turing Test
 10. Machine Learning
 11. Linear Regression
-13. Gradient Descent
-12. Classification
-14. Logistic Regression
+12. Gradient Descent
+13. Logistic Regression
+14. Classification
 15. Decision Trees
 16. Ensemble Learning
 17. Unsupervised Learning
