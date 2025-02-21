@@ -1,5 +1,7 @@
 Attendance  
 Ripped From Today's Headlines
+CFGBG
+Dog?
 
 # Linear Regression
 * Idea: predict a number y from a number x
