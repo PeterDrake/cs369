@@ -4,8 +4,8 @@ This assignment asks your pair to complete an artificially intelligent player fo
 **This is a pair assignment. When you are done, one member of your pair should submit the file, including (as a comment at the top of the file) the names of everyone who contributed. If you are unfamiliar with pair programming watch [this short video](https://www.youtube.com/watch?v=rG_U12uqRhE).**
 
 # Files
-* [test_othello.py](../test/test_othello.py)
-* [othello.py](../src/othello.py)
+* [`othello.py`](../src/othello.py)
+* [`test_othello.py`](../test/test_othello.py)
 
 Your job is to complete the functions in `othello.py` so that all of the tests pass. You can then run `othello.py` to play against the computer! You can increase the search depth in the call to `best_move` in `main` to make the program smarter but slower.
 
