@@ -32,5 +32,6 @@ Ripped From Today's Headlines
 * Unpack equations 4-5 to 4-7
 
 # For Next Time
-Linear Regression is due tonight
+Linear Regression is due tonight  
+Book 2 is due Thursday
 Read Géron, pp. 149-173
