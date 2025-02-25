@@ -33,5 +33,5 @@ Ripped From Today's Headlines
 
 # For Next Time
 Linear Regression is due tonight  
-Book 2 is due Thursday
+Book 2 is due Thursday  
 Read Géron, pp. 149-173

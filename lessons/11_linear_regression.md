@@ -1,6 +1,6 @@
 Attendance  
-Ripped From Today's Headlines
-CFGBG
+Ripped From Today's Headlines  
+CFGBG  
 Dog?
 
 # Linear Regression

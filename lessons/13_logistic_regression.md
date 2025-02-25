@@ -36,20 +36,18 @@ Ripped From Today's Headlines
 * Decision boundaries (Figures 4-23 and 4-24)
 * Softmax (when you have more than two classes)
   * Equation 4-20
-  * Programming break: implement this!
-    * Take a list of numbers, return a list of numbers adding up to 1
-    * What happens if it is given numbers that are
-      * All equal
-      * One significantly larger than the others
-      * Two large and similar, two small and similar
+  * What happens if it is given numbers that are
+    * All equal
+    * One significantly larger than the others
+    * Two large and similar, two small and similar
 * Both logistic and softmax are differentiable, which is crucial for gradient descent
   * Contrast threshold function and regular max function
 
-
 * If time, work on polynomial regression assignment
 
-# For Next Time
-Read Géron, chapter 3
-First third of social context book due tomorrow
-You can now start on polynomial regression assignment
+* Post-its
 
+# For Next Time
+Read Géron, chapter 3  
+First third of social context book due tomorrow  
+You can now start on polynomial regression assignment
