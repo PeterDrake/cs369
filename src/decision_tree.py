@@ -56,13 +56,10 @@ class Tree:
         # TODO You have to wrie this to build the tree from data
         # Hint: It's recursive, because you may be building subtrees
 
-    def __str__(self, indent=''):
+    def __repr__(self, indent=''):
         # TODO You have to write this
         # Hint: It's recursive. A recursive call might be something like:
-        # self.left.__str__(indent + '  ')
-
-    def __repr__(self):
-        return str(self)
+        # self.left.__repr__(indent + '  ')
 
     def predict(self, datum):
         """
