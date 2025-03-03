@@ -7,5 +7,5 @@ Ripped From Today's Headlines
 With extra time, work on assignments
 
 # For Next Time
-You can now start decision tree assignment
+You can now start decision tree assignment  
 Read Géron, chapter 7
