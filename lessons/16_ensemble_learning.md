@@ -8,4 +8,4 @@ With extra time, work on assignments
 
 # For Next Time
 Do midterm evaluation  
-Read Géron, chapter 8
+Read Géron, chapters 8-9 (but you can stop at DBSCAN on p. 279)
