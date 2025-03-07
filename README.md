@@ -82,10 +82,10 @@ instructor illness, inclement weather, etc. Note the links to class notes above.
 | Mon | Mar 10 | Neural Networks                                          |
 | Wed | Mar 12 | Backpropagation                                          |
 | Fri | Mar 14 | Bias and Privacy                                         |
-| Mon | Mar 17 | Using BLT                                                |
-| Wed | Mar 19 | NumPy                                                    |
+| Mon | Mar 17 | NumPy                                                    |
+| Wed | Mar 19 | TensorFlow                                               |
 | Fri | Mar 21 | Flex                                                     |
-| Mon | Mar 31 | TensorFlow                                               |
+| Mon | Mar 31 | Using BLT                                                |
 | Wed | Apr 2  | Flex                                                     |
 | Fri | Apr 4  | Deep Learning                                            |
 | Mon | Apr 7  | Convolution                                              |

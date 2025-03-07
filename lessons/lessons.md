@@ -18,9 +18,9 @@
 18. Neural Networks
 19. Backpropagation
 20. Bias and Privacy
-21. Using BLT
-22. NumPy
-23. TensorFlow 
+21. NumPy
+22. TensorFlow
+23. Using BLT
 24. Deep Learning
 25. Convolution
 26. Autoencoders
