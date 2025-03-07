@@ -12,7 +12,7 @@ You will be completing some classes in `neural.py`.
 Note that `test_learns_xor_2_2_1` will occasionally fail (because the network gets caught in a local minimum) even if you've done everything correctly. If that happens, run it again. If it consistently fails, something is wrong.
 
 # Optional Challenge Problems
-Use inheritance, rather than copy-paste, to write HiddenNeuron.
+Use inheritance, rather than copy-paste, to write `HiddenNeuron`.
 
 Print out (or better yet plot) the mean squared error (between the predictions and the targets) over the course of training.
 
