@@ -10,4 +10,4 @@ Ripped From Today's Headlines
 With extra time, work on assignments
 
 # For Next Time
-Read Géron, pp. 299-308 (chapter 10, stopping before The Multilayer Perceptron and Backpropagation)
+Read Géron, pp. 299-316 (chapter 10, stopping before Implementing MLPs with Keras)
