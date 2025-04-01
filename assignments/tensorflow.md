@@ -21,7 +21,7 @@ On a Mac, if you get a `ssl.SSLCertVerificationError` when trying to load the da
 /Applications/Python\ 3.13/Install\ Certificates.command
 ```
 
-# Optional Advanced Problems
+# Optional Challenge Problems
 Tune the hyperparameters of the network. Can you either get better validation performance or get the same performance with a smaller network?
 
 # What to Hand in
