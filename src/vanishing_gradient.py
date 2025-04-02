@@ -14,5 +14,5 @@ def network(input_, depth):
     #     input_ = neuron(input_)
     # return input_
 
-plt.plot(values, network(values, 1))  # Increase depth for a deeper network
+plt.plot(values, network(values, 10))  # Increase depth for a deeper network
 plt.show()

@@ -18,10 +18,9 @@ You will also need to download `Sub_Sandwiches_OSAT.csv` from [kaggle](https://w
 4. Create a shell script `sandwich.sh` similar to the one provided in [Jeremy's notes on BLT](http://bit.ly/cs369-blt).
 5. Use `sftp` to transfer all three files up to BLT.
 6. On BLT:
-   1. Activate the virtual environment.
-   2. Use SLURM to launch `sandwich.sh`.
-   3. Wait for the program to finish. You can use the `squeue` command to see what's still running. If you're successfully using the GPUs, your program should run briefly on the `sprouts` node.
-   4. Examine the output file. There will be some warnings at the beginning, but if everything worked right it should run to completion.
+   1. Use SLURM to launch `sandwich.sh`.
+   2. Wait for the program to finish. You can use the `squeue` command to see what's still running. If you're successfully using the GPUs, your program should run briefly on the `sprouts` node.
+   3. Examine the output file. There will be some warnings at the beginning, but if everything worked right it should run to completion.
 7. Use `sftp` to retrieve your output file
 
 # Optional Challenge Problems
