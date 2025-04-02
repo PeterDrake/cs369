@@ -7,7 +7,7 @@ The task is to build a network to predict customer satisfaction with sub sandwic
 **This is an individual assignment. You are meant to write the code on your own. You are welcome to discuss *ideas* with other students (including on the class email list), but don't look at their code or show them yours.**
 
 # Files
-[`sandwich.py`]('../src/sandwich.py')
+[`sandwich.py`](../src/sandwich.py)
 
 You will also need to download `Sub_Sandwiches_OSAT.csv` from [kaggle](https://www.kaggle.com/datasets/kane6543/sub-sandwich-customer-satisfaction-score). This will require you to make an account, but you don't have to use your real name and you can delete it after the course is over.
 
