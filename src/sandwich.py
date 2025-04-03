@@ -48,4 +48,4 @@ model.fit(X_train, y_train, epochs=30, validation_data=(X_valid, y_valid), verbo
 
 # Test the network
 print('\nTesting trained model:')
-model.evaluate(X_test, y_test)
+model.evaluate(X_test, y_test, verbose=2)
