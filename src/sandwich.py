@@ -44,6 +44,7 @@ model.compile(loss="sparse_categorical_crossentropy",
               metrics=["accuracy"])
 
 # Train the network
+# Note: verbose=2 prevents progress bar animation, which we don't want when writing output to a file on BLT
 model.fit(X_train, y_train, epochs=30, validation_data=(X_valid, y_valid), verbose=2)
 
 # Test the network
