@@ -7,7 +7,7 @@ Before we can start building neural networks to solve the forest LiDAR problem, 
 # Files
 * [Data description](data_description.docx)
 * [Signup spreadsheet](https://docs.google.com/spreadsheets/d/1Xulf1-Q6VTSGQ8BqfsmqEbjTy_J95VykzYyPSeMKTuM/edit?usp=sharing)
-* [Data folder](https://drive.google.com/drive/folders/1N_Ag6yqq3T26v09aToYpgk1KJg_GjExT?usp=sharing_eil_se_dm&ts=67f6f6a1)
+* [Data folder](https://drive.google.com/drive/folders/1N_Ag6yqq3T26v09aToYpgk1KJg_GjExT)
 * [`lidar_tagger.py`](../src/lidar_tagger.py)
 
 # Setup procedure
