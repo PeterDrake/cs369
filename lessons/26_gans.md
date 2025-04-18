@@ -16,3 +16,6 @@
 * [Géron's notebook](https://github.com/ageron/handson-ml3/blob/main/17_autoencoders_gans_and_diffusion_models.ipynb)
 * Mode collapse (second paragraph, p. 664)
   * One solution: keep around some older fake images, so the discriminator can't forget about types of images not currently being generated
+
+# Tagging LiDAR data
+* Walk through process
