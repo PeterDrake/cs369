@@ -11,11 +11,9 @@ One complication in this task is that almost all pixels in the training data are
 To get around this, we're using the `weighted_cross_entropy_with_logits` loss function. This provides a larger penalty for false negatives (missing a builiding) than false positives (saying something is a building when it's not). You should therefore pay more attention to *loss* than to *accuracy*.
 
 # Files
-* [`BatchGenerator.py`]() This is used to gather the data into batches for training the network.
-* [`lidar_net.py`]() This is an incomplete skeleton of the program to build and train the network. You'll have to supply the network definition.
-* [`lidar_net.sh`]() This is the script to run `lidar_net.py` on BLT.[BatchGenerator.py](../../cs369_solutions/src/BatchGenerator.py)
-[lidar_net.py](../../cs369_solutions/src/lidar_net.py)
-[lidar_net.sh](../../cs369_solutions/src/lidar_net.sh)
+* [`BatchGenerator.py`](../../cs369_solutions/src/BatchGenerator.py) This is used to gather the data into batches for training the network.
+* [`lidar_net.py`](../../cs369_solutions/src/lidar_net.py) This is an incomplete skeleton of the program to build and train the network. You'll have to supply the network definition.
+* [`lidar_net.sh`](../../cs369_solutions/src/lidar_net.py) This is the script to run `lidar_net.py` on BLT.
 
 # Hints
 * You can run your network on BLT. ***Start early!*** Other people in the class will also be running jobs on BLT, especially as the deadline approaches.
