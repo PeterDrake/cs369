@@ -1,4 +1,4 @@
-# CS 369 AI & Machine Learning
+ # CS 369 AI & Machine Learning
 Spring 2025
 
 **Instructor**: [Peter Drake](https://sites.google.com/a/lclark.edu/drake/home)  
