@@ -2,28 +2,31 @@
 Fall 2025
 
 **Instructor**: [Peter Drake](https://sites.google.com/a/lclark.edu/drake/home)  
-**Teaching assistant**: [Ishan Abraham](ishanabraham@lclark.edu)  
+**Teaching assistant**: [Ishan Abraham](mailto:ishanabraham@lclark.edu)  
 **Meetings**: 12:40-1:50 PM MWF, Olin 305  
 **Final presentations**: 8:30-11:30 AM, Tuesday, December 16
 
 ## Getting Help
-* Write to the [course email list](25fa-cs-369-01@lclark.edu) 24/7
+* Write to the [course email list](mailto:25fa-cs-369-01@lclark.edu) 24/7
 * Come to the TA's lab hours, TBA
 * [Make an appointment to see me](https://calendar.app.google/qegvZRaPJ5mScdCz5) or drop by my office
 
 ## Course Text
 Géron, [*Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, 3rd Edition*](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)  
 There are [associated Jupyter notebooks](https://github.com/ageron/handson-ml3).
+### Suggested Text
+No readings will be assigned, but if you want another take on a topic or to read more deeply, this is also on reserve in the library:  
+Chollet and Watson, [*Deep Learning with Python, Third Edition*](https://www.manning.com/books/deep-learning-with-python-third-edition)
 
 ## Links
 [Course Policies](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md)  
 [Class Notes](https://github.com/PeterDrake/cs369/tree/main/lessons)  
-In-Class Code  
+[In-Class Code](https://github.com/PeterDrake/cs369_f25_in_class/)  
 [Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)
 
 ## Collaborative Documents
 [Ripped From Today's Headlines](https://docs.google.com/spreadsheets/d/14O6o5iE4JBWry8kl5O2hcp1EOm4DjLlLjagIs2C-CCw/edit?usp=sharing)  
-Social Context Books
+[Social Context Books](https://docs.google.com/spreadsheets/d/1iMZoGUTiqXl6eZQgCfdbSgisPi7yglwEa_SGP3H9e9Q/edit?usp=sharing)
 
 ## Overview
 This course examines the philosophical, theoretical, and practical issues involved in the design of thinking machines. We will explore techniques used to get computers to solve problems that once were (and in some cases still are) thought to be strictly in the domain of human intelligence. The bulk of the course will focus on machine learning: building systems that can be trained from data rather than explicitly programmed.
