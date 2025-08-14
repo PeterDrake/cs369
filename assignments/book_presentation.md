@@ -4,7 +4,7 @@ In place of a final exam, people will speak to the class about their social cont
 
 I will bring snacks and a dog.
 
-Edit the linked Google Slides presentation with at least one slide (for example the cover of your book).
+If you need any slides, please put them in [this folder](https://drive.google.com/drive/folders/1H6gN0sY36qqCwreA_wTZRMX7ZfJd3Hz-?usp=drive_link). Use your name in the filename so it will be easy to find during the presentations.
 
 Advice:
 
