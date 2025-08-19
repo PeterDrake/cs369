@@ -12,7 +12,7 @@ Specific training data points are built into the file `linear.py` in the lists `
 # The Normal Equation
 It happens that, for the case of linear regression, there is a closed-form formula for finding the best line. It is described [in equation 4 here](https://stats.libretexts.org/Bookshelves/Computing_and_Modeling/Supplemental_Modules_(Computing_and_Modeling)/Regression_Analysis/Simple_linear_regression/Simple_Linear_Regression_(with_one_predictor)).
 
-Since these data only have a single value (rather than a vector) for $x$, this is simpler than the version on p. 134 of Géron.
+Since these data only have a single value (rather than a vector) for $x$, this is simpler than the version in Géron (p. 134, equation 4-4).
 
 Complete the function `regress_normal` to return these two values, which define the best line through the data.
 
