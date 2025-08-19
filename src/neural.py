@@ -1,85 +1,118 @@
 import math
 import random
 
-
 LEARNING_RATE = 1
 
+class Synapse:
+    """
+    A weighted connection from Neuron source to Neuron dest.
+    """
 
-class InputNeuron:
+    def __init__(self, source, dest):
+        """
+        :param source: The Neuron that this Synapse comes from.
+        :param dest: The Neuron that this Synapse leads to.
+        """
+        self.source = source
+        source.outputs += [self]
+        self.dest = dest
+        dest.inputs += [self]
+        self.weight = random.gauss(0, 1)
 
-    def __init__(self, activation=1):
-        self.activation = activation
+    def weighted_output(self):
+        """
+        :return: The source Neuron's activation times the weight of this Synapse.
+        """
+        return self.weight * self.source.activation
+
+    def update_weight(self):
+        """
+        Update the weight of this Synapse. Assumes source's activation and dest's delta have been set.
+        """
+        self.weight += -LEARNING_RATE * self.source.activation * self.dest.delta
+
+    def feedback_delta(self):
+        """
+        :return: The weight of this Synapse times dest's delta.
+        """
+        return self.dest.delta * self.weight
+
+class Neuron:
+    """
+    A unit in a neural network.
+    """
+
+    def __init__(self, previous_layer=None):
+        """
+        :param previous_layer: A list of Neurons in the previous layer.
+        """
+        self.activation = 1
         self.delta = 0
+        self.inputs = []
+        if previous_layer:
+            Synapse(Neuron(), self)
+            for n in previous_layer:
+                Synapse(n, self)
+        else:
+            self.inputs = None
+        self.outputs = []
 
-
-class OutputNeuron:
-
-    def __init__(self, previous_layer):
-        self.activation = None
-        self.delta = None
-        self.previous_layer = [InputNeuron()] + previous_layer  # Add bias node
-        self.weights = [random.gauss(0, 1) for _ in self.previous_layer]
+    def __str__(self):
+        return (f'a={self.activation}, d={self.delta}, '
+                f'w_i={[i.weight for i in self.inputs] if self.inputs else None}, '
+                f'w_o={[o.weight for o in self.outputs] if self.outputs else None}')
 
     def update_activation(self):
         """
-        Update the activation of this neuron, based on its previous layer and weights.
+        Update the activation of this Neuron, based on its previous layer and weights.
         """
-        s = sum(self.weights[i] * self.previous_layer[i].activation for i in range(len(self.previous_layer)))
-        self.activation = logistic(s)
+        # TODO You have to write this one
+        pass  # Start by removing this line, which is just here so that the code is valid Python
 
-    def update_delta(self, target):
+    def update_delta(self, target=None):
         """
-        Update the delta value for this neuron. Also, backpropagate delta values to neurons in
-        the previous layer.
-        :param target: The desired output of this neuron.
+        Update the delta value for this Neuron.
+        :param target: The desired output of this Neuron (if it is an output Neuron).
         """
-        a = self.activation
-        t = target
-        self.delta = -a * (1 - a) * (t - a)
-        for unit, weight in zip(self.previous_layer[1:], self.weights[1:]):
-            unit.delta += None  # TODO Replace None with the correct formula
+        # TODO You have to write this one
+        pass  # Start by removing this line, which is just here so that the code is valid Python
 
     def update_weights(self):
         """
-        Update the weights of this neuron.
+        Update the weights of the Synapses leading into this Neuron.
         """
-        for j in range(len(self.previous_layer)):
-            self.weights[j] += -LEARNING_RATE * self.previous_layer[j].activation * self.delta
+        # TODO You have to write this one
+        pass  # Start by removing this line, which is just here so that the code is valid Python
 
-
-class HiddenNeuron:
-    # TODO You have to write this. It is almost identical to OutputNeuron, but it has a different
-    # update_delta method which doesn't take target as an argument.  You can copy and paste or
-    # use inheritance.
-    pass
+    def set_weights(self, weights):
+        """
+        Sets the weights of the Synapses leading into this Neuron. Used in unit tests.
+        """
+        # TODO You have to write this one
+        pass  # Start by removing this line, which is just here so that the code is valid Python
 
 
 class Network:
+    """
+    A multilayer perceptron.
+    """
 
     def __init__(self, sizes):
         """
-        :param sizes: A list of the number of neurons in each layer, e.g., [2, 2, 1] for a network that can learn XOR.
+        :param sizes: A list of the Number of neurons in each layer, e.g., [2, 2, 1] for a network that can learn XOR.
         """
-        self.layers = [None] * len(sizes)
-        self.layers[0] = [InputNeuron() for _ in range(sizes[0])]
-        for i in range(1, len(sizes) - 1):
-            self.layers[i] = [HiddenNeuron(self.layers[i-1]) for _ in range(sizes[i])]
-        self.layers[-1] = [OutputNeuron(self.layers[-2]) for _ in range(sizes[-1])]
+        self.layers = [[]] * len(sizes)
+        self.layers[0] = [Neuron() for _ in range(sizes[0])]
+        for i in range(1, len(sizes)):
+            self.layers[i] = [Neuron(self.layers[i-1]) for _ in range(sizes[i])]
 
     def predict(self, inputs):
         """
         :param inputs: Values to use as activations of the input layer.
         :return: The predictions of the neurons in the output layer.
         """
-        # TODO You have to write this
-        pass
-
-    def reset_deltas(self):
-        """
-        Set the deltas for all units to 0.
-        """
-        # TODO You have to write this
-        pass
+        # TODO You have to write this one
+        pass  # Start by removing this line, which is just here so that the code is valid Python
 
     def update_deltas(self, targets):
         """
@@ -87,15 +120,15 @@ class Network:
         been called, so all neurons have had their activations updated.
         :param targets: The desired activations of the output neurons.
         """
-        # TODO You have to write this
-        pass
+        # TODO You have to write this one
+        pass  # Start by removing this line, which is just here so that the code is valid Python
 
     def update_weights(self):
         """
         Update the weights of all neurons.
         """
-        # TODO You have to write this
-        pass
+        # TODO You have to write this one
+        pass  # Start by removing this line, which is just here so that the code is valid Python
 
     def train(self, inputs, targets):
         """
@@ -105,7 +138,6 @@ class Network:
         :param targets: A list desired activation values for the output units.
         """
         self.predict(inputs)
-        self.reset_deltas()  # Set all deltas to 0
         self.update_deltas(targets)
         self.update_weights()
 
