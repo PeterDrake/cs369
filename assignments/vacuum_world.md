@@ -32,7 +32,7 @@ Provide a function `reflex_agent`, which takes a boolean percept as an argument.
 ## Random Agent
 The random agent also has no memory, but can act randomly. Surprisingly, this can be more effective than the reflex agent.
 
-You will want to import the random package at the beginning of your file and use methods like random.choice. For example, given the definition of directions above, random.choice(directions) returns a random element of that list.
+You will want to import the `random` package at the beginning of your file and use methods like `random.choice`. For example, given the definition of `directions` above, `random.choice(directions)` returns a random element of that list.
 
 This function should be called `random_agent`
 
@@ -41,7 +41,7 @@ The state agent is allowed to remember what it has seen and done in the past. Th
 
 This function should be called `state_agent`.
 
-To behave differently each time it is called, your state agent function will need to have some variables whose values are remembered between calls. One way to do this is to define these variables at the top (global) level, then use the `global` keyword to modify them within your agent function.
+To behave differently each time it is called, your state agent function will need to have some variables whose values are remembered between calls. One way to do this is to define these variables at the top (global) level (outside of the function), then use the `global` keyword to modify them within your agent function.
 
 # Testing Your Agents
 
