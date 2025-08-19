@@ -37,14 +37,8 @@ def successor(board, player, move):
     :param move: Either 'pass' or a pair (r, c) with 0 <= r < 8 and 0 <= c < 8
     :return: The board that would result if player played move
     """
-    if move == 'pass':
-        return board
-    mutable_board = [list(row) for row in board]  # Copy to a list of lists
-    for r, c in flips(board, player, move):
-        mutable_board[r][c] = player
-    r, c = move
-    mutable_board[r][c] = player
-    return tuple(''.join(row) for row in mutable_board)
+    # TODO You have to write this one
+    pass  # Start by removing this line, which is just here so that the code is valid Python
 
 
 def legal_moves(board, player):
@@ -64,7 +58,7 @@ def legal_moves(board, player):
                     game_over = False
                     result.append(here)
                 # The inclusion of game_over in the condition below is for efficiency:
-                # If it has already been determined that the game is not over, there's not need to check
+                # If it has already been determined that the game is not over, there's no need to check
                 # for opposing legal moves
                 elif game_over and flips(board, opposite(player), here):
                     game_over = False
