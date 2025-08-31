@@ -20,7 +20,7 @@ Before we can start building neural networks to solve the forest LiDAR problem, 
 2. Edit `lidar_tagger.py` (near the end of the file, on the line beggining `app = LidarTagger(...`) with the list of numbers of the tiles you'll be tagging.
 3. Run `lidar_tagger`.
    1. You may need to increase your monitor's resolution to fit the whole window on the screen.
-   2. For each image, click on each thing that is clearly a building. Some images won't have any. If you make a mistake, you can undo. It doesn't have to be perfect, but do your best; the more accurate our training data are, the better the networks will be able to do.
+   2. For each image, click on each thing that is clearly a building, bridge, or other human-made structure. Some images won't have any. If you make a mistake, you can undo. It doesn't have to be perfect, but do your best; the more accurate our training data are, the better the networks will be able to do.
    3. After you're processed the images, save them. This will save some .npy files in your `lidar_tag`
 4. Using sftp, upload the files to BLT in the directory `/home/drake/lidar/lidar_tag`
 5. Mark in the signup spreadsheet that you're done.

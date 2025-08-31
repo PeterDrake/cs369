@@ -27,7 +27,7 @@ Break the problem down into steps. Have one pair (or person) do the first step, 
 1. Pass `test_finds_best_move_shallow`.
 1. Pass `test_finds_best_move_medium`.
 1. Pass `test_finds_best_move_deep`.
-1. Clean up the code: remove commented-out code, improve of local variables, eliminate redundancy, etc.
+1. Clean up the code: remove commented-out code, improve names of local variables, eliminate redundancy, etc.
 1. If you have time, save a copy and then consider tackling optional challenge problems.
 1. Clean up the code again.
 1. Have *one person* hand in your solution with everyone's names on it.
