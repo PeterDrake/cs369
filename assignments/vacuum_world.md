@@ -71,3 +71,5 @@ My solution got average losses of around 19 000 000 for the reflex agent, 630 00
 
 # What to Hand in
 Hand in your file `vacuum_agents.py` that contains your function definitions and any global variable definitions.
+
+**In a comment at the top of the file, include your name and the random number you were given as feedback on the Book 1: Initial Impressions assignment.** This is a test to make sure the feedback is getting through.
