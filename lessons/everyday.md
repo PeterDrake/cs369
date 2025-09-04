@@ -12,4 +12,5 @@
 
 # End
 * Coming soon reminder
+* Log out
 * Sticky notes on door?
