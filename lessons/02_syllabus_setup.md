@@ -3,6 +3,7 @@
 # Setup
 * Python
 * PyCharm
+* pytest
 * Verify that tkinter works:
 ```python
 from tkinter import *

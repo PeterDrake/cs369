@@ -24,8 +24,3 @@ Who's next?
     * Provide appropriate magic methods
     * Define a class `Box` with `volume` and `overlaps`
     * Allow `overlaps` to work between `Sphere`s and `Box`es.
-
-# For Next Time
-* Put The Thinking Game on your calendar
-* Have you signed up for Ripped From Today's Headlines?
-* Have you chosen your social context book?

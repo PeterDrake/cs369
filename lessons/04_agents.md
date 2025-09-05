@@ -38,8 +38,3 @@ Ripped From Today's Headlines
   * Random
   * State
 
-# For Next Time
-* The Thinking Game, tonight, 8 PM, Olin 301
-* Start work on Vacuum World
-* Friday will be a day to work on the assignment
-* Acquire your social context book

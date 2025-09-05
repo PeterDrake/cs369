@@ -26,7 +26,7 @@ Chollet and Watson, [*Deep Learning with Python, Third Edition*](https://www.man
 
 ## Collaborative Documents
 [Ripped From Today's Headlines](https://docs.google.com/spreadsheets/d/14O6o5iE4JBWry8kl5O2hcp1EOm4DjLlLjagIs2C-CCw/edit?usp=sharing)  
-[Social Context Books](https://docs.google.com/spreadsheets/d/1iMZoGUTiqXl6eZQgCfdbSgisPi7yglwEa_SGP3H9e9Q/edit?usp=sharing)
+[Social Context Books](https://docs.google.com/spreadsheets/d/1r3B2jbbaaml8tAtgwQx4qP-1F_PaLW5806LzUGphZVM/edit?usp=sharing)
 
 ## Overview
 This course examines the philosophical, theoretical, and practical issues involved in the design of thinking machines. We will explore techniques used to get computers to solve problems that once were (and in some cases still are) thought to be strictly in the domain of human intelligence. The bulk of the course will focus on machine learning: building systems that can be trained from data rather than explicitly programmed.
