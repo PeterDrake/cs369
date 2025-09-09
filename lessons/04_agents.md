@@ -1,8 +1,5 @@
 **Bring: Russell & Norvig**
 
-Attendance  
-Ripped From Today's Headlines
-
 # Agents
 [Figure 2.1](https://aima.cs.berkeley.edu/figures.pdf)
 

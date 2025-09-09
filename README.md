@@ -8,7 +8,7 @@ Fall 2025
 
 ## Getting Help
 * Write to the [course email list](mailto:25fa-cs-369-01@lclark.edu) 24/7
-* Come to the TA's lab hours, 2-3 PM Tuesday and Friday, Olin 305
+* Come to the TA's lab hours, 2:30-3:30 PM Tuesday (Olin 305) and 10-11 AM Friday (SQRC).
 * [Make an appointment to see me](https://calendar.app.google/qegvZRaPJ5mScdCz5) or drop by my office
 
 ## Course Text

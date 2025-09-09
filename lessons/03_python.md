@@ -1,12 +1,8 @@
-Bring: **Python Cheat Sheets, Lubanovic**
-
-Attendance  
-Ripped From Today's Headlines  
-Who's next?
+**Bring: Python Cheat Sheets**
 
 [Ten Eternal Truths About Python](https://docs.google.com/presentation/d/1OQ7YHJqNgGblz9GVC6l80wyomk1NoFTfGqOBAzr-Mpc/edit?usp=sharing)
 
-# More Python
+# Object-Oriented Python
 
 * Defining classes
   * For each one, ask class the one- and two-star questions at the end of the page
