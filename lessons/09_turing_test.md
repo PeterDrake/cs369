@@ -1,6 +1,3 @@
-Attendance
-Ripped From Today's Headlines
-
 # The Turing Test
 
 Vote/discussion: are brains computers?
@@ -33,6 +30,3 @@ Vote/discussion: can computers pass the Turing Test?
 * Argument from continuity in the nervous system
 * Argument from informality of behavior
 * Argument from extransensory perception
-
-# For Next Time
-Read Géron, chapters 1-2

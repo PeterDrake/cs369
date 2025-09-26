@@ -1,8 +1,3 @@
-Attendance  
-Ripped From Today's Headlines  
-CFGBG  
-Dog?
-
 # Linear Regression
 * Idea: predict a number y from a number x
   * Example in the book: predict life satisfaction from GDP per capita
@@ -60,8 +55,3 @@ plt.plot(x_model, y_model, 'r')
 [The book's code](https://github.com/ageron/handson-ml3/blob/main/04_training_linear_models.ipynb)
 
 * If extra time, work on assignments
-
-# For Next Time
-You can now do the Linear Regression assignment  
-Read Géron, pp. 138-149
-The first third of your social context book is due next week

@@ -51,5 +51,3 @@ a good model
   * Neural network
   * Ensemble
 
-# For Next Time
-Read pp. 131-138
