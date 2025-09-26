@@ -85,7 +85,7 @@ def opposite(player):
 
 def value(board, player, depth):
     """
-    :param board: A string
+    :param board: A sequence of strings
     :param player: 'X' or 'O'
     :param depth: At least 1; greater depth is slower but smarter
     :return: The value of board if it is player's turn
