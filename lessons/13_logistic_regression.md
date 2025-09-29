@@ -1,8 +1,3 @@
-Attendance  
-Ripped From Today's Headlines
-
-* Post-its
-
 # Polynomial Regression
 * Idea: add more features like $x^2$
   * If you have multiple features, you can include combinations: $a^2$, $ab$, $b^2$
@@ -44,12 +39,3 @@ Ripped From Today's Headlines
     * Two large and similar, two small and similar
 * Both logistic and softmax are differentiable, which is crucial for gradient descent
   * Contrast threshold function and regular max function
-
-* If time, work on polynomial regression assignment
-
-* Post-its on door
-
-# For Next Time
-Read Géron, chapter 3  
-First third of social context book due tomorrow  
-You can now start on polynomial regression assignment
