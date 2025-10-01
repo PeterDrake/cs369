@@ -1,6 +1,3 @@
-Attendance
-Ripped From Today's Headlines
-
 # The Machine Learning Landscape
 
 * Central idea: a machine learning system *learns from experience* rather than being *explicitly programmed*.
