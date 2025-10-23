@@ -20,7 +20,7 @@ Now, if you uncomment the line `generate_and_plot_data(100)` near the bottom of 
 # Fitting Curves
 Complete `fit_curve` and `plot_curve`.
 
-Now, if you uncomment the `line experiment_1(20)` near the bottom of the file, you’ll get a picture something like this:
+Now, if you uncomment the line `experiment_1(20)` near the bottom of the file, you’ll get a picture something like this:
 
 ![Data points with several curves plotted through them](../images/poly2.jpg)
 
