@@ -12,7 +12,7 @@ You will be completing some classes in `neural.py`.
 Note that `test_learns_xor_2_2_1` will occasionally fail (because the network gets caught in a local minimum) even if you've done everything correctly. If that happens, run it again. If it consistently fails, something is wrong.
 
 # Hints
-You will probably spend a lot of time debugging this one. You may find it useful to write `__str__` methods. I've provided one for `Synapse`, but not for `Neuron`. You may also find it helpful to write additional unit tests (in a separate test file -- don't modify the existing one) that test whatever behavior isn't working.
+You will probably spend a lot of time debugging this one. You may find it useful to write `__repr__` methods. I've provided one for `Neuron`, but not for `Network`. You may also find it helpful to write additional unit tests (in a separate test file -- don't modify the existing one) that test whatever behavior isn't working.
 
 # Optional Challenge Problems
 Print out (or better yet plot) the mean squared error (between the predictions and the targets) over the course of training.

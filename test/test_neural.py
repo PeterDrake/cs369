@@ -18,7 +18,7 @@ def test_medium_logistic_function():
 def test_predicts_2_1():
     net = Network([2, 1])
     output = net.layers[1][0]  # The output unit
-    output.weights = [-0.1, 0.1, 0.2]
+    output.set_weights([-0.1, 0.1, 0.2])
     assert net.predict([0, 0])[0] == pytest.approx(0.475, abs=0.001)
     assert net.predict([0, 1])[0] == pytest.approx(0.525, abs=0.001)
     assert net.predict([1, 0])[0] == pytest.approx(0.500, abs=0.001)
@@ -27,16 +27,15 @@ def test_predicts_2_1():
 def test_updates_deltas_2_1():
     net = Network([2, 1])
     output = net.layers[1][0]  # The output unit
-    output.weights = [-0.1, 0.1, 0.2]
+    output.set_weights([-0.1, 0.1, 0.2])
     net.predict([0, 1])
-    net.reset_deltas()
     net.update_deltas([1])
     assert output.delta == pytest.approx(-0.118, abs=0.001)
 
 def test_updates_weights_2_1():
     net = Network([2, 1])
     output = net.layers[1][0]  # The output unit
-    output.weights = [-0.1, 0.1, 0.2]
+    output.set_weights([-0.1, 0.1, 0.2])
     net.train([0, 1], [1])
     assert net.predict([0, 1])[0] == pytest.approx(0.583, abs=0.001)
 
@@ -44,10 +43,17 @@ def test_learns_or_2_1():
     net = Network([2, 1])
     inputs = [[0, 0], [0, 1], [1, 0], [1, 1]]
     targets = [[0], [1], [1], [1]]
+    print('BEFORE TRAINING')
+    for i, t in zip(inputs, targets):
+        net.predict(i)
+        print(net)
     for _ in range(1000):
         for i, t in zip(inputs, targets):
             net.train(i, t)
+    print('AFTER TRAINING')
     for i, t in zip(inputs, targets):
+        net.predict(i)
+        print(net)
         assert net.predict(i)[0] == pytest.approx(t[0], abs=0.2)
 
 def test_learns_and_2_1():
@@ -66,9 +72,9 @@ def test_learns_and_2_1():
 
 def test_predicts_2_2_1():
     net = Network([2, 2, 1])
-    net.layers[2][0].weights = [-0.1, 0.1, 0.2]  # Output unit
-    net.layers[1][0].weights = [-0.2, 0.3, 0.4]  # First hidden unit
-    net.layers[1][1].weights = [-0.3, 0.5, -0.4]  # Second hidden unit
+    net.layers[2][0].set_weights([-0.1, 0.1, 0.2])  # Output unit
+    net.layers[1][0].set_weights([-0.2, 0.3, 0.4])  # First hidden unit
+    net.layers[1][1].set_weights([-0.3, 0.5, -0.4])  # Second hidden unit
     assert net.predict([0, 0])[0] == pytest.approx(0.508, abs=0.001)
     assert net.predict([0, 1])[0] == pytest.approx(0.505, abs=0.001)
     assert net.predict([1, 0])[0] == pytest.approx(0.516, abs=0.001)
@@ -76,11 +82,10 @@ def test_predicts_2_2_1():
 
 def test_updates_deltas_2_2_1():
     net = Network([2, 2, 1])
-    net.layers[2][0].weights = [-0.1, 0.1, 0.2]  # Output unit
-    net.layers[1][0].weights = [-0.2, 0.3, 0.4]  # First hidden unit
-    net.layers[1][1].weights = [-0.3, 0.5, -0.4]  # Second hidden unit
+    net.layers[2][0].set_weights([-0.1, 0.1, 0.2])  # Output unit
+    net.layers[1][0].set_weights([-0.2, 0.3, 0.4])  # First hidden unit
+    net.layers[1][1].set_weights([-0.3, 0.5, -0.4])  # Second hidden unit
     net.predict([0, 1])
-    net.reset_deltas()
     net.update_deltas([1])
     assert net.layers[2][0].delta == pytest.approx(-0.124, abs=0.001)
     assert net.layers[1][0].delta == pytest.approx(-0.003, abs=0.001)
@@ -88,9 +93,9 @@ def test_updates_deltas_2_2_1():
 
 def test_updates_weights_2_2_1():
     net = Network([2, 2, 1])
-    net.layers[2][0].weights = [-0.1, 0.1, 0.2]  # Output unit
-    net.layers[1][0].weights = [-0.2, 0.3, 0.4]  # First hidden unit
-    net.layers[1][1].weights = [-0.3, 0.5, -0.4]  # Second hidden unit
+    net.layers[2][0].set_weights([-0.1, 0.1, 0.2])  # Output unit
+    net.layers[1][0].set_weights([-0.2, 0.3, 0.4])  # First hidden unit
+    net.layers[1][1].set_weights([-0.3, 0.5, -0.4])  # Second hidden unit
     net.train([0, 1], [1])
     assert net.predict([0, 1])[0] == pytest.approx(0.549, abs=0.001)
 

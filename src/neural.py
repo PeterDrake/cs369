@@ -57,7 +57,7 @@ class Neuron:
             self.inputs = None
         self.outputs = []
 
-    def __str__(self):
+    def __repr__(self):
         return (f'a={self.activation}, d={self.delta}, '
                 f'w_i={[i.weight for i in self.inputs] if self.inputs else None}, '
                 f'w_o={[o.weight for o in self.outputs] if self.outputs else None}')
