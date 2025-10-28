@@ -1,6 +1,3 @@
-Attendance  
-Ripped From Today's Headlines
-
 ***Bring NumPy cheat sheets***
 
 # NumPy
@@ -40,7 +37,7 @@ Ripped From Today's Headlines
         * If you can't (e.g., 3 vs 5), raise an error
   * Functions across axes (sum, etc.)
   * Comparisons
-  * Matrix multiplication with @
+  * Matrix multiplication with `@`
 * Now, for updating activation of an entire layer of a neural network, it's just `logistic(inputs @ weights)`
   * More is needed to handle biases (either concatenate them to the inputs or add biases after the matrix multiplication)
   * Backpropagation is trickier

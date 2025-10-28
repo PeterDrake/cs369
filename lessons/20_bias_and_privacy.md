@@ -1,3 +1,5 @@
+**Warn people in advance so they can prepare for the first question**
+
 # Bias and Privacy
 * Around the room: What does your social context book have to say about bias and privacy?
 * Discussion: What can developers do to reduce bias and protect privacy?
