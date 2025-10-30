@@ -1,6 +1,3 @@
-Attendance  
-Ripped From Today's Headlines
-
 # TensorFlow
 * Keras is the front end for TensorFlow; they used to be separate
 * Basic idea:
