@@ -3,7 +3,8 @@ Fall 2025
 
 **Instructor**: [Peter Drake](https://sites.google.com/a/lclark.edu/drake/home)  
 **Teaching assistant**: [Ishan Abraham](mailto:ishanabraham@lclark.edu)  
-**Meetings**: 12:40-1:50 PM MWF, Olin 305  
+**Meetings**: 12:40-1:4
+0 PM MWF, Olin 305  
 **Final presentations**: 8:30-11:30 AM, Tuesday, December 16
 
 ## Getting Help

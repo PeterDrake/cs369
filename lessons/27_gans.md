@@ -17,5 +17,3 @@
 * Mode collapse (second paragraph, p. 664)
   * One solution: keep around some older fake images, so the discriminator can't forget about types of images not currently being generated
 
-# Tagging LiDAR data
-* Walk through process
