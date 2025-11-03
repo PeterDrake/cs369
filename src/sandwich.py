@@ -16,7 +16,7 @@ data.pop('brand')  # Categorical
 # Discard any rows containing missing values
 data.dropna(how='any', inplace=True)
 
-# Shuffle the data for good measures
+# Shuffle the data for good measure
 data = data.sample(frac=1)  # See https://stackoverflow.com/questions/29576430/shuffle-dataframe-rows
 
 # Extract the correct answers
