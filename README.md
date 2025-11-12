@@ -87,9 +87,9 @@ instructor illness, inclement weather, etc. Note the links to class notes above.
 | Mon | Nov 3  | Flex                                                     |
 | Wed | Nov 5  | Using BLT                                                |
 | Fri | Nov 7  | Flex                                                     |
-| Mon | Nov 10 | Deep Learning                                            |
-| Wed | Nov 12 | Convolution                                              |
-| Fri | Nov 14 | Flex                                                     |
+| Mon | Nov 10 | Flex                                                     |
+| Wed | Nov 12 | Deep Learning                                            |
+| Fri | Nov 14 | Convolution                                              |
 | Mon | Nov 17 | Flex                                                     |
 | Wed | Nov 19 | Autoencoders                                             |
 | Fri | Nov 21 | Flex                                                     |
