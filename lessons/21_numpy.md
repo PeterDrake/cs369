@@ -39,5 +39,10 @@
   * Comparisons
   * Matrix multiplication with `@`
 * Now, for updating activation of an entire layer of a neural network, it's just `logistic(inputs @ weights)`
+  * This assumes:
+  ```python
+  def logistic(x):
+    return 1/(1+np.exp(x))
+  ```
   * More is needed to handle biases (either concatenate them to the inputs or add biases after the matrix multiplication)
   * Backpropagation is trickier
