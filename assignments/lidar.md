@@ -30,7 +30,7 @@ To get around this, we're using the `weighted_cross_entropy_with_logits` loss fu
 * Explore! Try different network architectures and play with other hyperparameters
 
 # What to Hand in
-One member of your pair should hand in:
+One member of your team should hand in:
 * Your completed version of `lidar_net.py`.
 * The output of running your program.
 
