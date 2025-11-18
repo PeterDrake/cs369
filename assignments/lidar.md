@@ -23,7 +23,7 @@ To get around this, we're using the `weighted_cross_entropy_with_logits` loss fu
 * Start by connecting a single Conv2D layer directly to the inputs to make sure everything runs and establish a baseline. Then try to improve on it.
 
 # Optional Challenge Problems
-* Do better than I did! (Specifically, get a final validation loss less than 1.2876.)
+* Do better than I did! (Specifically, get a final validation loss less than 1.2642.)
 * Save (and hand in) some pictures to compare the correct answers to the network predictions.
 * Plot (and hand in) the learning curve.
 * Figure out how to save (and reload) the trained model.
